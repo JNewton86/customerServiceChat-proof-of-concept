@@ -1,0 +1,1 @@
+This is an intial rough draft of a an idea for a back end python service that allows for validation of user submitted support ticket with response validated using pydantic and a LLM, in this case initially OpenAI.
